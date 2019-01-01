@@ -3,7 +3,9 @@ layout: default
 title: My Blogs
 ---
 
-# Just my first new Blog
+<aside class="greeting">Happy New Year 2019! C'Est La Vie!</aside>
+
+# Welcome to my blogs (Some of them aren't avaliable yet)
 
 <div style="display: none;">
 

@@ -144,6 +144,16 @@ code {
 	font-size: 12pt;
 }
 
+aside.greeting {
+	font-style: normal;
+	font-size: 14pt;
+	background: #d6ecd2;
+	padding: 15px 25px;
+	margin: 5px 0px;
+	border-left: 4px solid #77dd77;
+	color: black;
+}
+
 aside.warning {
 	font-style: normal;
 	font-size: 14pt;
